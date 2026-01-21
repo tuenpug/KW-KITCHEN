@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gourmet AI Studio",
+  "description": "An AI-powered recipe companion that creates Chinese, Western, Japanese, and Birthday Cake recipes based on your ingredients, generates preview images, and provides professional critiques of your finished dishes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
